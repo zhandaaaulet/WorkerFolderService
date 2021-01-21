@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerFolderService", "WorkerFolderService\WorkerFolderService.csproj", "{283A6F96-C4FF-415A-B53C-648001DBB490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283A6F96-C4FF-415A-B53C-648001DBB490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283A6F96-C4FF-415A-B53C-648001DBB490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283A6F96-C4FF-415A-B53C-648001DBB490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283A6F96-C4FF-415A-B53C-648001DBB490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC165D0-53D9-4DC9-98B8-A96FA65CF7BC}
+	EndGlobalSection
+EndGlobal
